@@ -1,5 +1,3 @@
-# ekendall.github.io
+# Elaine Kendall's Resume Page
 My
-<a href="ekendall.github.io/One-Page_Resume/Elaine_Kendall-Resume-1pg.pdf" target="_blank">One_Page Resume.</a>
-
-Next
+<a href="ekendall.github.io/Resume/Elaine_Kendall-Resume-1pg.pdf" target="_blank">One_Page Resume.</a>
